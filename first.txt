@@ -2,3 +2,4 @@
 基本的ワークフローを学びます。
 .git add
 .git init
+.git remove
